@@ -94,7 +94,7 @@ This project demonstrates how Power BI can be used to develop powerful **enterpr
 
 ## 📁 Data set used
 
-<a href=https://github.com/DatawithSandhra/Financial_dashboard_powerbi/blob/main/Finance%20dataset.xlsx>Financial data set</a>
+<a href "=https://github.com/DatawithSandhra/Insurance_Analytics/blob/main/BRANCH%20DASHBOARD.xlsx">Branch dashboard data set</a>
 ---
 
 ## 📂 Project Files
