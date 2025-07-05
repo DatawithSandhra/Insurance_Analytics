@@ -62,6 +62,10 @@ To create interactive dashboards that help stakeholders in an insurance company 
 
 ---
 
+## Dashboard
+
+---
+
 ## 💡 Project Insights & Recommendations
 
 ### 📌 From Policy Dashboard
