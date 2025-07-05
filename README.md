@@ -63,7 +63,9 @@ To create interactive dashboards that help stakeholders in an insurance company 
 ---
 
 ## Dashboard
-https://github.com/DatawithSandhra/Insurance_Analytics/blob/main/Branch_dashboard.png
+![Branch_dashboard](https://github.com/user-attachments/assets/31243a1c-3092-4e67-944d-4359a84e91f8)
+![policy_dashboard](https://github.com/user-attachments/assets/538015a9-08f5-4a86-bde3-a689b78e3064)
+
 ---
 
 ## 💡 Project Insights & Recommendations
@@ -105,11 +107,7 @@ The dashboards are built using structured datasets exported from an internal ins
 
 ## 📂 Project Files
 
-- `Policy_Dashboard.pbix` – Power BI file containing the Policy Analytics Dashboard.
-- `Branch_Dashboard.pbix` – Power BI file containing the Branch Opportunity Dashboard.
-- `README.md` – Project summary and documentation.
-- `*.xlsx` – Excel files used for initial data exploration and transformation (if applicable).
-- `Screenshots/` – Folder containing images of dashboards for reference.
+
 
 ---
 
