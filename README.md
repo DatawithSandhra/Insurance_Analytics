@@ -92,17 +92,9 @@ This project demonstrates how Power BI can be used to develop powerful **enterpr
 
 ---
 
-## 📁 Datasets Used
+## 📁 Data set used
 
-The dashboards are built using structured datasets exported from an internal insurance data system. Key datasets include:
-
-- **Customer Information** – Includes demographic details such as gender, age, marital status, etc.
-- **Policy Details** – Information on policy type, issue/expiry dates, premium amounts, etc.
-- **Claims** – Claim records including status, amount, and approval details.
-- **Payment History** – Payment status data such as paid, pending, and overdue.
-- **Branch Opportunity Data** – Opportunity pipeline information by product and revenue.
-- **Meeting and Invoice Logs** – Tracks meetings by A/C executives and invoice generation.
-
+<a href=https://github.com/DatawithSandhra/Financial_dashboard_powerbi/blob/main/Finance%20dataset.xlsx>Financial data set</a>
 ---
 
 ## 📂 Project Files
