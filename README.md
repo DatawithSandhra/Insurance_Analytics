@@ -63,7 +63,7 @@ To create interactive dashboards that help stakeholders in an insurance company 
 ---
 
 ## Dashboard
-
+https://github.com/DatawithSandhra/Insurance_Analytics/blob/main/Branch_dashboard.png
 ---
 
 ## 💡 Project Insights & Recommendations
